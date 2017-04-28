@@ -9,8 +9,16 @@ h1 {
 
 .title-text img {
   float: right;
-  margin: 0 0 10px 10px;
+  margin: 10px 10px 10px 10px;
 
+}
+
+.title-text h2 {
+  text-align: center;
+  font font-family: "Times New Roman", Times, serif;
+}
+.title-text hr {
+  margin: 0 0 10px 10px;
 }
 
 h2 {
@@ -19,5 +27,6 @@ h2 {
 }
 p1 {
   color: white;
+  text-align: left;
 
 }

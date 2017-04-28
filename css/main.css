@@ -1,3 +1,23 @@
 .if-section {
-  background-color: black
+  background-color: black;
+}
+
+h1 {
+  color: orange;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.title-text img {
+  float: right;
+  margin: 0 0 10px 10px;
+
+}
+
+h2 {
+  color: grey;
+
+}
+p1 {
+  color: white;
+
 }
